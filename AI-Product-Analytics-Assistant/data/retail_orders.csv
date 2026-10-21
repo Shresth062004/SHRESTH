@@ -1,0 +1,1 @@
+order_id,order_date,customer_id,region,customer_segment,product_category,product_name,quantity,unit_price,discount_pct,payment_method,device_type,revenue,order_status
